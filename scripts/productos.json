@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "prd01",
+    "nombre": "Laptop",
+    "descripcion": "Laptop de 15 pulgadas",
+    "precio": 1200.00,
+    "categorias": ["Electrónica", "Computadoras"],
+    "detalles": {
+      "marca": "MarcaX",
+      "modelo": "Mod123",
+      "stock": 25
+    }
+  },
+  {
+    "_id": "prd02",
+    "nombre": "Smartphone",
+    "descripcion": "Teléfono inteligente con pantalla de 6 pulgadas",
+    "precio": 800.00,
+    "categorias": ["Electrónica", "Teléfonos"],
+    "detalles": {
+      "marca": "MarcaY",
+      "modelo": "Mod456",
+      "stock": 40
+    }
+  },
+  {
+    "_id": "prd03",
+    "nombre": "Mouse Inalámbrico",
+    "descripcion": "Mouse óptico sin cables",
+    "precio": 25.00,
+    "categorias": ["Accesorios", "Computadoras"],
+    "detalles": {
+      "marca": "MarcaZ",
+      "modelo": "Mod789",
+      "stock": 100
+    }
+  }
+]

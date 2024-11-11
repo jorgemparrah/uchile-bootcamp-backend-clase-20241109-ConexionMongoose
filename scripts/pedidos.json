@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "ped01",
+    "usuarioId": "usr01",
+    "fecha": "2024-10-01",
+    "total": 2025.00,
+    "estado": "completado",
+    "productos": [
+      { "productoId": "prd01", "cantidad": 1, "precio": 1200.00 },
+      { "productoId": "prd02", "cantidad": 1, "precio": 800.00 },
+      { "productoId": "prd03", "cantidad": 1, "precio": 25.00 }
+    ]
+  },
+  {
+    "_id": "ped02",
+    "usuarioId": "usr01",
+    "fecha": "2024-10-05",
+    "total": 1200.00,
+    "estado": "pendiente",
+    "productos": [
+      { "productoId": "prd01", "cantidad": 1, "precio": 1200.00 }
+    ]
+  },
+  {
+    "_id": "ped03",
+    "usuarioId": "usr02",
+    "fecha": "2024-10-10",
+    "total": 825.00,
+    "estado": "cancelado",
+    "productos": [
+      { "productoId": "prd02", "cantidad": 1, "precio": 800.00 },
+      { "productoId": "prd03", "cantidad": 1, "precio": 25.00 }
+    ]
+  }
+]
